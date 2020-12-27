@@ -12,6 +12,11 @@
       <sourceFolder url="file://$MODULE_DIR$/004_swap_elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/005_password_verification" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/008_traffic_light" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/009_arguments_printer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/010_sum_of_numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/011_prime_numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/012_application_arguments" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/015_days_of_week" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
